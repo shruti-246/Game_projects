@@ -1,6 +1,3 @@
-//Name - Shruti Debnath
-//Section - 08
-//Assignment - 05
 #include<iostream>
 
 using namespace std;
