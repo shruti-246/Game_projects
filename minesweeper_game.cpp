@@ -1,10 +1,3 @@
-/*
-Name - Shruti Debnath
-Section - 08
-Assignment - 11
-Here i use vector just to make it easier to deal with the cols and rows.
-*/
-
 #include <iostream>
 #include <vector>
 #include <cstdlib>
