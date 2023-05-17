@@ -1,7 +1,3 @@
-/*Name - Shruti Debnath
-Section - 08
-Extra credit Assignment 04
-Date - 10 february 2023*/
 // --------------------------------NIM GAME--------------------------
  #include<iostream>     
  #include<cstdlib>
