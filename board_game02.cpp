@@ -1,8 +1,3 @@
-/*
-Name - Shruti Debnath
-Section - 08
-Assignment 10
-March 31, 2023*/
 #include<iostream>
 #include<string>
 #include<fstream>
